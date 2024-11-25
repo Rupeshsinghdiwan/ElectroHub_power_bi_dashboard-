@@ -86,4 +86,6 @@ The dashboard addresses the following key requirements:
 
 ---
 
+![Electorhub Dashboard Screenshot](Dashboard Images/Screenshot 2024-11-25 184239.png)
+
 Feel free to customize further based on your preferences or additional project details.
