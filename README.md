@@ -2,6 +2,11 @@
 
 # Electorhub Sales Dashboard  
 
+---
+![Electorhub Dashboard Screenshot](https://github.com/Rupeshsinghdiwan/ElectroHub_power_bi_dashboard-/blob/42b55ff3df08b81ee7f7f10e480a0a4021a96894/Dashboard%20Images/Screenshot%202024-11-25%20201639.png)
+
+---
+
 This is my **first Power BI project**, where I have analyzed and visualized sales data for a fictional company named **Electorhub**. The company deals in various product categories, including **Electronics, Footwear, Clothing, Home Appliances, Accessories, Kitchenware, Bags, and Personal Care**.  
 
 ## Overview  
@@ -64,28 +69,17 @@ The dashboard addresses the following key requirements:
 - Revealed seasonal trends, helping understand peak sales periods.  
 - Found strong correlations between sales and profit for certain categories, while others had lower profit margins.  
 - Provided actionable insights on discounts and their impact on sales and profitability.  
-- Highlighted regions with high/low sales performance for better-targeted marketing.  
+- Highlighted regions with high/low sales performance for better-targeted marketing.
+  
+---
 
-## File Structure  
-
-- `Electorhub_Dashboard.pbix` – The Power BI file containing the cleaned data and interactive dashboard.  
-- `README.md` – This file providing project details.  
-- `Data/` – Folder containing the sample sales data in `.csv` or other formats (if applicable).  
-
-## How to Use  
-
-1. Clone the repository.  
-2. Open the `Electorhub_Dashboard.pbix` file in Power BI Desktop.  
-3. Interact with the dashboard to explore various insights.  
-
-## Future Improvements  
-
-- Add more KPIs, such as **Customer Lifetime Value** and **Retention Rate**.  
-- Implement advanced analytics using Python/R within Power BI.  
-- Integrate real-time data for continuous monitoring.  
+![Electorhub Dashboard Screenshot](https://github.com/Rupeshsinghdiwan/ElectroHub_power_bi_dashboard-/blob/506e2d59a1725feab8544e892bd24a3a17c3add7/Dashboard%20Images/Screenshot%202024-11-25%20184239.png)
+![Electorhub Dashboard Screenshot](https://github.com/Rupeshsinghdiwan/ElectroHub_power_bi_dashboard-/blob/2d2738c0c104386c03bc8ffee49e390785dacf33/Dashboard%20Images/Screenshot%202024-11-25%20184327.png)
+![Electorhub Dashboard Screenshot](https://github.com/Rupeshsinghdiwan/ElectroHub_power_bi_dashboard-/blob/2d2738c0c104386c03bc8ffee49e390785dacf33/Dashboard%20Images/Screenshot%202024-11-25%20184349.png)
+![Electorhub Dashboard Screenshot](https://github.com/Rupeshsinghdiwan/ElectroHub_power_bi_dashboard-/blob/2d2738c0c104386c03bc8ffee49e390785dacf33/Dashboard%20Images/Screenshot%202024-11-25%20184412.png)
+![Electorhub Dashboard Screenshot](https://github.com/Rupeshsinghdiwan/ElectroHub_power_bi_dashboard-/blob/2d2738c0c104386c03bc8ffee49e390785dacf33/Dashboard%20Images/Screenshot%202024-11-25%20184455.png)
 
 ---
 
-![Electorhub Dashboard Screenshot](Dashboard Images/Screenshot 2024-11-25 184239.png)
 
 Feel free to customize further based on your preferences or additional project details.
