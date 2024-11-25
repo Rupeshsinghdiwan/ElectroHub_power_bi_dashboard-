@@ -81,5 +81,3 @@ The dashboard addresses the following key requirements:
 
 ---
 
-
-Feel free to customize further based on your preferences or additional project details.
